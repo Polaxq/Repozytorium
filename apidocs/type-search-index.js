@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"package1","l":"Autor"},{"p":"package2","l":"Brotherband"},{"p":"org.example","l":"Main"},{"p":"package1","l":"ZwiadowcyRuinyGorlanu"}];updateSearchResults();
